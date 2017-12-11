@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>地图指示</title> 
+<style type="text/css">
+h1
+{	
+	color:blue;
+	font-size:60px;
+	text-align:center;
+}
+
+p
+{	
+	color:red;
+}
+
+body
+{
+	background-image:url(111.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;
+	margin-right:200px;
+}
+</style>
+</head>
+<body>
+<p>
+<center>
+<h1>青岛科技大学</h1>
+
+姓名：<input type="text" name="xingming"><br/>
+学号：<input type="text" name="xingming"><br/>
+<a href="qqqq.html" target="_top">欢迎进入</a> 
+</p>
+
+
+</body>
+</html>
